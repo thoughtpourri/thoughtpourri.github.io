@@ -2,4 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://thoughtpourri.com/</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
 <url><loc>https://thoughtpourri.com/</loc><lastmod>2016-07-28T09:28:11+00:00</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/faq</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/apply</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/nidhi</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/mehek</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/danish</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://thoughtpourri.com/amrith</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
 </urlset>
